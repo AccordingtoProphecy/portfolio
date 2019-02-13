@@ -1,0 +1,33 @@
+.title {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bio {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.description {
+  color: darkblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.project {
+  color: darkorchid;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#info {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+a {
+  color: green;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+body {
+  background-color: aliceblue;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 5px 5px 5px 5px;
+}
